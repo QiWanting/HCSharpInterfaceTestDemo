@@ -1,0 +1,14 @@
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.csproj.AssemblyReference.cache
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.Form1.resources
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.Properties.Resources.resources
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.csproj.GenerateResource.cache
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.csproj.CoreCompileInputs.cache
+D:\own\2024\4G\Code\TestDemo\TestDemo\bin\Debug\TestDemo.exe.config
+D:\own\2024\4G\Code\TestDemo\TestDemo\bin\Debug\TestDemo.exe
+D:\own\2024\4G\Code\TestDemo\TestDemo\bin\Debug\TestDemo.pdb
+D:\own\2024\4G\Code\TestDemo\TestDemo\bin\Debug\halcondotnet.dll
+D:\own\2024\4G\Code\TestDemo\TestDemo\bin\Debug\HCSharpInterface.dll
+D:\own\2024\4G\Code\TestDemo\TestDemo\bin\Debug\hdevenginedotnet.dll
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.csproj.Up2Date
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.exe
+D:\own\2024\4G\Code\TestDemo\TestDemo\obj\Debug\TestDemo.pdb
